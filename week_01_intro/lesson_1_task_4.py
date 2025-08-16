@@ -39,4 +39,3 @@ print(even, odd)    # Print counts of even and odd digits
 
 
 
-
